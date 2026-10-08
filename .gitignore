@@ -1,0 +1,12 @@
+# Generated account data
+accounts.dat
+
+# Compiled C binaries
+*.exe
+*.out
+*.o
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
